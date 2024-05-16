@@ -1,0 +1,1 @@
+This is to learn version control with Git - when you look at this again, you will already be making good money with websites!
